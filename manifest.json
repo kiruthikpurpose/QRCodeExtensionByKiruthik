@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "QR Code Generator By Kiruthik",
+    "description": "Generate a QR code for the current URL!",
+    "version": "1.0",
+    "permissions": ["activeTab"],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_title": "Quick QR Code Generator"
+    },
+    "icons": {"48": "icon.png"}
+  }

@@ -1,0 +1,10 @@
+body {
+    width: 270px;
+    height: 270px;
+    padding: 10px;
+    font-family: sans-serif;
+  }
+  
+  #qrcode {
+    margin-top: 20px;
+  }
